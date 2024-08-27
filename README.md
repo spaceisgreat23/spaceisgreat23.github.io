@@ -1,2 +1,2 @@
-# spaceisgreat23.github.io
-workshop
+# spaceisgreat23
+learning about github
